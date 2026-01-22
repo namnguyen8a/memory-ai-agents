@@ -1,0 +1,590 @@
+{
+  "e6149767-85d6-44f9-98a6-7598d0772b14": {
+    "id": "e6149767-85d6-44f9-98a6-7598d0772b14",
+    "text": "I think we should consider laptops with good battery life and a decent processor.",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:23:31.356116",
+      "updated_at": "2026-01-21T09:23:31.356129",
+      "scope": "shared"
+    }
+  },
+  "3764be9c-958d-4595-964c-188bd72c293c": {
+    "id": "3764be9c-958d-4595-964c-188bd72c293c",
+    "text": "I've been thinking about getting a new laptop for software development. Have you considered the latest models from Dell or HP?",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:23:35.184291",
+      "updated_at": "2026-01-21T09:23:35.184303",
+      "scope": "shared"
+    }
+  },
+  "7f0290ee-ecad-4a31-ae1b-810a1574ca4b": {
+    "id": "7f0290ee-ecad-4a31-ae1b-810a1574ca4b",
+    "text": "Dell XPS 13 or HP Envy x360 are recommended.",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:23:40.527981",
+      "updated_at": "2026-01-21T09:23:40.527993",
+      "scope": "shared"
+    }
+  },
+  "2d0dc122-dc47-4166-a783-a875462ac71e": {
+    "id": "2d0dc122-dc47-4166-a783-a875462ac71e",
+    "text": "I'm having trouble connecting to the database.",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:23:51.538312",
+      "updated_at": "2026-01-21T09:23:51.538322",
+      "scope": "shared"
+    }
+  },
+  "da110919-1c11-4a80-880f-249c27d5e7b8": {
+    "id": "da110919-1c11-4a80-880f-249c27d5e7b8",
+    "text": "Dell XPS 13 or HP Envy x360 are recommended.",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:23:56.441109",
+      "updated_at": "2026-01-21T09:23:56.441120",
+      "scope": "shared"
+    }
+  },
+  "3fc837c8-6838-441f-96aa-43f837e0cb13": {
+    "id": "3fc837c8-6838-441f-96aa-43f837e0cb13",
+    "text": "None",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:24:04.890069",
+      "updated_at": "2026-01-21T09:24:04.890080",
+      "scope": "shared"
+    }
+  },
+  "5140b69a-89b1-4b11-8e4c-81dc3e5dc529": {
+    "id": "5140b69a-89b1-4b11-8e4c-81dc3e5dc529",
+    "text": "Dell XPS 13 or HP Envy x360 are recommended.",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:24:12.693799",
+      "updated_at": "2026-01-21T09:24:12.693813",
+      "scope": "shared"
+    }
+  },
+  "14266817-1d0d-4e18-8b28-89aa514ad0f4": {
+    "id": "14266817-1d0d-4e18-8b28-89aa514ad0f4",
+    "text": "The conversation only mentions laptops and software development.",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:24:17.699320",
+      "updated_at": "2026-01-21T09:24:17.699330",
+      "scope": "shared"
+    }
+  },
+  "8d52f793-52fb-4fdb-a9f2-b9dcde8a627f": {
+    "id": "8d52f793-52fb-4fdb-a9f2-b9dcde8a627f",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:24:30.152594",
+      "updated_at": "2026-01-21T09:24:30.152608",
+      "scope": "shared"
+    }
+  },
+  "a130751d-0882-4c66-91da-e024d4ce73a0": {
+    "id": "a130751d-0882-4c66-91da-e024d4ce73a0",
+    "text": "User hates onions",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:24:34.826869",
+      "updated_at": "2026-01-21T09:24:34.826878",
+      "scope": "shared"
+    }
+  },
+  "a402a1b9-189a-4d58-b519-64d712b9bc60": {
+    "id": "a402a1b9-189a-4d58-b519-64d712b9bc60",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:24:43.229073",
+      "updated_at": "2026-01-21T09:24:43.229087",
+      "scope": "shared"
+    }
+  },
+  "20ecb13e-4ee0-4b02-a34d-80ebbd938f58": {
+    "id": "20ecb13e-4ee0-4b02-a34d-80ebbd938f58",
+    "text": "User likes onions",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:24:53.955049",
+      "updated_at": "2026-01-21T09:24:53.955060",
+      "scope": "shared"
+    }
+  },
+  "121a80a3-a9b5-491f-ba9d-c613a43b4705": {
+    "id": "121a80a3-a9b5-491f-ba9d-c613a43b4705",
+    "text": "User hates onions",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T09:24:57.168223",
+      "updated_at": "2026-01-21T09:24:57.168232",
+      "scope": "shared"
+    }
+  },
+  "8cf9750d-2e9c-4458-b0e1-5f307eb4fa8e": {
+    "id": "8cf9750d-2e9c-4458-b0e1-5f307eb4fa8e",
+    "text": "User is vegetarian",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:09:45.059696",
+      "updated_at": "2026-01-21T10:09:45.059705",
+      "scope": "shared"
+    }
+  },
+  "d885d052-292e-44f5-b588-326d32e68dee": {
+    "id": "d885d052-292e-44f5-b588-326d32e68dee",
+    "text": "User lives in Hanoi",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:09:49.260018",
+      "updated_at": "2026-01-21T10:09:49.260030",
+      "scope": "shared"
+    }
+  },
+  "85a60678-e0fc-4bd2-afab-d0576961ffa1": {
+    "id": "85a60678-e0fc-4bd2-afab-d0576961ffa1",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:17:55.410028",
+      "updated_at": "2026-01-21T10:17:55.410039",
+      "scope": "shared"
+    }
+  },
+  "4f33c738-7a33-40d5-be41-5ccf8e7ddc85": {
+    "id": "4f33c738-7a33-40d5-be41-5ccf8e7ddc85",
+    "text": "User is Nam",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:17:57.710406",
+      "updated_at": "2026-01-21T10:17:57.710415",
+      "scope": "shared"
+    }
+  },
+  "f00e677c-8150-493a-9b50-3a707e14e006": {
+    "id": "f00e677c-8150-493a-9b50-3a707e14e006",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:31:12.025226",
+      "updated_at": "2026-01-21T10:31:12.025242",
+      "scope": "shared"
+    }
+  },
+  "658ea57d-16cd-4121-9fe3-0c58ce979f48": {
+    "id": "658ea57d-16cd-4121-9fe3-0c58ce979f48",
+    "text": "User likes jeans with pollo shirt",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:31:26.215893",
+      "updated_at": "2026-01-21T10:31:26.215903",
+      "scope": "shared"
+    }
+  },
+  "70ecabaf-5344-4eeb-b547-c2788801bce2": {
+    "id": "70ecabaf-5344-4eeb-b547-c2788801bce2",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:32:18.393122",
+      "updated_at": "2026-01-21T10:32:18.393130",
+      "scope": "shared"
+    }
+  },
+  "f59f19d7-7fcf-44de-9154-7a99353fac0e": {
+    "id": "f59f19d7-7fcf-44de-9154-7a99353fac0e",
+    "text": "User likes jeans with pollo shirts",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:32:23.299873",
+      "updated_at": "2026-01-21T10:32:23.299882",
+      "scope": "shared"
+    }
+  },
+  "7fb93230-4ce4-4742-80af-af6c3d9f1942": {
+    "id": "7fb93230-4ce4-4742-80af-af6c3d9f1942",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:36:19.698765",
+      "updated_at": "2026-01-21T10:36:19.698774",
+      "scope": "shared"
+    }
+  },
+  "b41d3937-44e9-42da-85a3-6b64aa7a5d94": {
+    "id": "b41d3937-44e9-42da-85a3-6b64aa7a5d94",
+    "text": "User is vegetarian",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:36:27.737826",
+      "updated_at": "2026-01-21T10:36:27.737836",
+      "scope": "shared"
+    }
+  },
+  "f0af80ed-ea85-4bfe-be2f-679ac8cf8d9a": {
+    "id": "f0af80ed-ea85-4bfe-be2f-679ac8cf8d9a",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:39:39.149249",
+      "updated_at": "2026-01-21T10:39:39.149258",
+      "scope": "shared"
+    }
+  },
+  "4d23993f-b189-4012-b3ff-ef078bb25292": {
+    "id": "4d23993f-b189-4012-b3ff-ef078bb25292",
+    "text": "User is looking for recommendations on vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:39:45.589016",
+      "updated_at": "2026-01-21T10:39:45.589025",
+      "scope": "shared"
+    }
+  },
+  "7ec867fc-5494-4fa9-901d-bc8670cbfb7a": {
+    "id": "7ec867fc-5494-4fa9-901d-bc8670cbfb7a",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:46:13.997068",
+      "updated_at": "2026-01-21T10:46:13.997088",
+      "scope": "shared"
+    }
+  },
+  "670ae982-c6b9-4347-94e7-92dfb3782f74": {
+    "id": "670ae982-c6b9-4347-94e7-92dfb3782f74",
+    "text": "Vegetarian food is a good option when using one of these laptops",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:46:22.397246",
+      "updated_at": "2026-01-21T10:46:22.397256",
+      "scope": "shared"
+    }
+  },
+  "a88610fa-35e2-4d48-bda7-ad4c20cf6d3c": {
+    "id": "a88610fa-35e2-4d48-bda7-ad4c20cf6d3c",
+    "text": "Nam is a vegetarian",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:47:32.147830",
+      "updated_at": "2026-01-21T10:47:32.147841",
+      "scope": "shared"
+    }
+  },
+  "d05b66f5-9829-4831-8c31-b5c1e71814fb": {
+    "id": "d05b66f5-9829-4831-8c31-b5c1e71814fb",
+    "text": "Nam likes playing FPS games",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:47:41.625226",
+      "updated_at": "2026-01-21T10:47:41.625235",
+      "scope": "shared"
+    }
+  },
+  "d8b84568-722a-4333-8fdb-afb26bdb0c00": {
+    "id": "d8b84568-722a-4333-8fdb-afb26bdb0c00",
+    "text": "User is vegetarian",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "general",
+      "created_at": "2026-01-21T10:48:17.774604",
+      "updated_at": "2026-01-21T10:48:17.774614",
+      "scope": "shared"
+    }
+  },
+  "01e92ef1-f779-4c78-9413-af2e525aeff5": {
+    "id": "01e92ef1-f779-4c78-9413-af2e525aeff5",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "general",
+      "created_at": "2026-01-21T10:48:22.038194",
+      "updated_at": "2026-01-21T10:48:22.038202",
+      "scope": "shared"
+    }
+  },
+  "6d07304e-f253-4063-8eaf-bfe06dc5f4cf": {
+    "id": "6d07304e-f253-4063-8eaf-bfe06dc5f4cf",
+    "text": "User is vegetarian",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "general",
+      "created_at": "2026-01-21T10:52:43.424937",
+      "updated_at": "2026-01-21T10:52:43.424947",
+      "scope": "shared"
+    }
+  },
+  "440b695e-6c4c-4fb6-829e-1d1dc45f91df": {
+    "id": "440b695e-6c4c-4fb6-829e-1d1dc45f91df",
+    "text": "User prefers vegetarian food",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "general",
+      "created_at": "2026-01-21T10:52:49.694488",
+      "updated_at": "2026-01-21T10:52:49.694496",
+      "scope": "shared"
+    }
+  },
+  "73d16eae-0bfb-4138-8a70-c3aaf4973de1": {
+    "id": "73d16eae-0bfb-4138-8a70-c3aaf4973de1",
+    "text": "{\"User is vegetarian\"}",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:54:19.681088",
+      "updated_at": "2026-01-21T10:54:19.681097",
+      "scope": "shared"
+    }
+  },
+  "a1291e4a-f39c-468a-a63b-0bae7219123b": {
+    "id": "a1291e4a-f39c-468a-a63b-0bae7219123b",
+    "text": "{\"User lives in Hanoi\"}",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T10:54:22.134141",
+      "updated_at": "2026-01-21T10:54:22.134149",
+      "scope": "shared"
+    }
+  },
+  "16311ee8-c90f-4399-869e-bcf642dcd69e": {
+    "id": "16311ee8-c90f-4399-869e-bcf642dcd69e",
+    "text": "{\"User is vegetarian\"}",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T11:15:13.252126",
+      "updated_at": "2026-01-21T11:15:13.252136",
+      "scope": "shared"
+    }
+  },
+  "38af49d2-a96d-49ca-b821-9f40fd3afee8": {
+    "id": "38af49d2-a96d-49ca-b821-9f40fd3afee8",
+    "text": "{\"User lives in Hanoi\"}",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-21T11:15:19.590445",
+      "updated_at": "2026-01-21T11:15:19.590453",
+      "scope": "shared"
+    }
+  },
+  "96059e1e-7854-4a20-b55e-9504e8e59062": {
+    "id": "96059e1e-7854-4a20-b55e-9504e8e59062",
+    "text": "User hates onions",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:04:21.141854",
+      "updated_at": "2026-01-22T02:04:21.141868",
+      "scope": "shared"
+    }
+  },
+  "513bc35e-b90c-4f66-9f5b-a88d29c5e224": {
+    "id": "513bc35e-b90c-4f66-9f5b-a88d29c5e224",
+    "text": "User is vegetarian",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:04:30.376336",
+      "updated_at": "2026-01-22T02:04:30.376346",
+      "scope": "shared"
+    }
+  },
+  "a7507fc5-45f6-421f-afe4-5e852286bb9d": {
+    "id": "a7507fc5-45f6-421f-afe4-5e852286bb9d",
+    "text": "You (Nam) like playing FPS games.",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:05:10.458138",
+      "updated_at": "2026-01-22T02:05:10.458147",
+      "scope": "shared"
+    }
+  },
+  "963d2d6c-32f5-4aa4-99fd-4bc4c38c4302": {
+    "id": "963d2d6c-32f5-4aa4-99fd-4bc4c38c4302",
+    "text": "You live in Hanoi.",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:05:12.299563",
+      "updated_at": "2026-01-22T02:05:12.299572",
+      "scope": "shared"
+    }
+  },
+  "071d8322-103e-40c6-816b-49dc36cbe4bf": {
+    "id": "071d8322-103e-40c6-816b-49dc36cbe4bf",
+    "text": "User is vegetarian",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:06:56.404244",
+      "updated_at": "2026-01-22T02:06:56.404260",
+      "scope": "shared"
+    }
+  },
+  "a0f0e6bc-01fc-4574-9f6a-4397c8e77e04": {
+    "id": "a0f0e6bc-01fc-4574-9f6a-4397c8e77e04",
+    "text": "User hates onions",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:07:02.380976",
+      "updated_at": "2026-01-22T02:07:02.380992",
+      "scope": "shared"
+    }
+  },
+  "e97e16f4-c6e5-47d1-808b-8e5dd1bb921a": {
+    "id": "e97e16f4-c6e5-47d1-808b-8e5dd1bb921a",
+    "text": "You like playing FPS games",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:07:10.707146",
+      "updated_at": "2026-01-22T02:07:10.707191",
+      "scope": "shared"
+    }
+  },
+  "198eb913-9433-4514-bb56-600cafb6f003": {
+    "id": "198eb913-9433-4514-bb56-600cafb6f003",
+    "text": "You live in Hanoi",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:07:19.698203",
+      "updated_at": "2026-01-22T02:07:19.698215",
+      "scope": "shared"
+    }
+  },
+  "d804e49f-2a9b-464d-8db2-751f23294210": {
+    "id": "d804e49f-2a9b-464d-8db2-751f23294210",
+    "text": "Nam is a vegetarian",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:18:56.846247",
+      "updated_at": "2026-01-22T02:18:56.846259",
+      "scope": "shared"
+    }
+  },
+  "45b3616f-df19-43bb-b00b-ee473d759e18": {
+    "id": "45b3616f-df19-43bb-b00b-ee473d759e18",
+    "text": "You live in Hanoi",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:19:06.138234",
+      "updated_at": "2026-01-22T02:19:06.138257",
+      "scope": "shared"
+    }
+  },
+  "b6446429-5a3c-4c13-9a26-7a9dad0a0acf": {
+    "id": "b6446429-5a3c-4c13-9a26-7a9dad0a0acf",
+    "text": "{\"User is vegetarian\"}",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:22:37.941756",
+      "updated_at": "2026-01-22T02:22:37.941766",
+      "scope": "shared"
+    }
+  },
+  "77c8c57d-5f2c-4317-b0aa-9e032a27a754": {
+    "id": "77c8c57d-5f2c-4317-b0aa-9e032a27a754",
+    "text": "{\"User lives in Hanoi\"}",
+    "vector": null,
+    "metadata": {
+      "user_id": "demo_user_123",
+      "agent_id": "sales",
+      "created_at": "2026-01-22T02:22:37.944090",
+      "updated_at": "2026-01-22T02:22:37.944099",
+      "scope": "shared"
+    }
+  }
+}

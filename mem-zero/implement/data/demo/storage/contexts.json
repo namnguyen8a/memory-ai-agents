@@ -1,0 +1,186 @@
+{
+  "session_38996d8a": {
+    "session_id": "session_38996d8a",
+    "user_id": "demo_user_123",
+    "global_summary": "",
+    "recent_messages": [
+      {
+        "role": "user",
+        "content": "I'm having trouble connecting to the database. Can you help?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the conversation memories, I can try to assist you.\n\nFrom the first memory, \"I think we should consider laptops with good battery life and a decent processor,\" it seems that the speaker is suggesting laptops for software development or other tasks that require a balance between performance and battery life. However, without more context, it's difficult to provide a specific recommendation.\n\nThe second memory mentions Dell XPS 13 and HP Envy x360 as recommended laptop models. This suggests that the speaker may be considering these options based on their own experience or research.\n\nThe third memory simply states \"Dell XPS 13 or HP Envy x360 are recommended.\" Without more context, it's difficult to determine if this is a recommendation from the speaker themselves or someone else.\n\nTo provide a more accurate answer, I would need to know more about your specific situation and requirements. Could you please provide more information about what you're trying to accomplish with the database connection?"
+      },
+      {
+        "role": "user",
+        "content": "What is the weather like today?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unfortunately, none of the memories provided contain any information about the current weather. The conversation only mentions laptops and software development, but not the weather.\n\nTo provide an accurate answer, I would need to analyze more context or additional memories that mention the weather. If you'd like to share more context or memories, I can try to help!"
+      },
+      {
+        "role": "user",
+        "content": "I prefer vegetarian food and hate onions."
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memories provided:\n\n* The conversation mentions laptops and software development.\n* Dell XPS 13 or HP Envy x360 are recommended for these purposes.\n* These recommendations do not mention vegetarian food or onions.\n\nTherefore, I cannot provide a recommendation for vegetarian food that does not include onions."
+      },
+      {
+        "role": "user",
+        "content": "What food do I prefer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memory that mentions \"vegetarian food\", you would answer: Vegetarian food."
+      },
+      {
+        "role": "user",
+        "content": "Actually, I don't hate onions anymore. I like them now."
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the conversation memories, it appears that you have changed your preference from hating onions to liking them. The most recent memory mentions \"User hates onions (Created: 2026-01-21T09:24:34.826869)\" and another one says \"I'm having trouble connecting to the database.\""
+      }
+    ],
+    "updated_at": "2026-01-21T09:24:44.657162"
+  },
+  "session_1f007800": {
+    "session_id": "session_1f007800",
+    "user_id": "demo_user_123",
+    "global_summary": "",
+    "recent_messages": [
+      {
+        "role": "user",
+        "content": "Good now i want to play a fps game, i kinda like fps over moba game what fps game should i try first?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memories provided, it seems that Nam is a vegetarian who likes playing FPS games.\n\nThe most recent memory mentions \"Vegetarian food is a good option when using one of these laptops\" (Created: 2026-01-21T10:46:22.397246), which suggests that Nam might be interested in gaming on laptops, but it doesn't directly answer the question about FPS games.\n\nHowever, considering Nam's interest in vegetarian food and their preference for playing FPS games, I would recommend starting with a game like \"Overwatch\" or \"Rainbow Six Siege\", both of which are popular FPS games that feature a variety of playable characters with unique abilities."
+      },
+      {
+        "role": "user",
+        "content": "Good so i will play overwatch first? So excited to play it right now"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memory, it appears that the conversation started with a question about playing Overwatch first. Since there is no timestamp mentioned in this initial message, I'll assume that the conversation has just begun.\n\nTo provide an accurate answer, I need more information from you. You mentioned \"so excited to play it right now.\" This suggests that you're eager to start playing Overwatch. However, without a specific timestamp or context, I can only make an educated guess.\n\nIf you'd like to share more about your current situation or the time of day when this conversation started, I'll do my best to provide a more accurate answer."
+      },
+      {
+        "role": "user",
+        "content": "Good now i want to find some place to play which one should i choose in new york"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memory from 2026-01-21T10:48:17.774604, it appears that the user is vegetarian.\n\nThe memory from 2026-01-21T10:48:22.038194 indicates that the user prefers vegetarian food.\n\nSince both memories mention \"vegetarian\", I would recommend a place in New York that offers vegetarian options."
+      },
+      {
+        "role": "user",
+        "content": "Which place should i choose like time square or what?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memories provided:\n\n- Nam is a vegetarian (Created: 2026-01-21T10:47:32.147830)\n- User lives in Hanoi (Created: 2026-01-21T10:09:49.260018)\n\nThe most relevant information is that Nam is a vegetarian, and the user lives in Hanoi.\n\nConsidering these facts, I would recommend Time Square as a suitable option for the user's preference of vegetarian food."
+      },
+      {
+        "role": "user",
+        "content": "Good so you know i'm living in Hanoi so which place should i go to"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memories provided, it appears that the user is currently living in Hanoi.\n\nThe most recent memory mentions \"Hanoi\" (Created: 2026-01-21T09:24:12.693799), and this is the only memory that explicitly states the location of residence.\n\nTherefore, I would recommend recommending places to visit in Hanoi based on this information."
+      }
+    ],
+    "updated_at": "2026-01-21T11:15:03.324470"
+  },
+  "session_f5f90742": {
+    "session_id": "session_f5f90742",
+    "user_id": "demo_user_123",
+    "global_summary": "",
+    "recent_messages": [
+      {
+        "role": "user",
+        "content": "do you know my name?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memory:\n\n* User hates onions (Created: 2026-01-21T09:24:34.826869)\n* Nam is a vegetarian (Created: 2026-01-21T10:47:32.147830)\n\nSince there are no mentions of \"my name\" in either of these memories, I couldn't find any information to answer your question directly.\n\nHowever, if we look at the other memories:\n\n* {\"User is vegetarian\"} (Created: 2026-01-21T10:54:19.681088)\n* {\"User is vegetarian\"} (Created: 2026-01-21T11:15:13.252126)\n\nThese two memories mention \"user\" and \"vegetarian\", which could imply that the user in question might be Nam, given their shared interest in being a vegetarian.\n\nIf I had to make an educated guess based on these memories alone, I would say that it's possible that the person asking about their name is indeed Nam."
+      }
+    ],
+    "updated_at": "2026-01-21T11:26:46.765597"
+  },
+  "session_471c10d9": {
+    "session_id": "session_471c10d9",
+    "user_id": "demo_user_123",
+    "global_summary": "",
+    "recent_messages": [
+      {
+        "role": "user",
+        "content": "Helo, Do you know my name?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memory:\n\n- User is vegetarian (Created: 2026-01-21T10:54:19.681088)\n- User hates onions (Created: 2026-01-21T09:24:34.826869)\n\nSince the user hates onions, it's likely that they don't like vegetables or meat-based foods either.\n\nHowever, there is no mention of their name in any of these memories."
+      },
+      {
+        "role": "user",
+        "content": "I'm Nam remember it"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memories provided:\n\n* You (Nam) like playing FPS games.\n* You live in Hanoi.\n\nSo, you are a fan of playing First-Person Shooter (FPS) games and reside in Hanoi."
+      },
+      {
+        "role": "user",
+        "content": "good so for now what do you remember about me? List all the things out"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memories provided, I can recall that:\n\n* You are a user who prefers vegetarian food.\n* You have been using laptops (specifically Dell XPS 13 or HP Envy x360) with good battery life and decent processors.\n\nThese are the only specific details mentioned in the conversation so far."
+      },
+      {
+        "role": "user",
+        "content": "So what do you recommended me for food? and on which laptop i've already used when eating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memories provided:\n\n- Nam is a vegetarian (Created: 2026-01-21T10:47:32.147830)\n- You live in Hanoi (Created: 2026-01-22T02:07:19.698203)\n\nSince you are looking for recommendations on vegetarian food and living in Hanoi, I can provide some suggestions.\n\nSome popular vegetarian options in Hanoi include:\n\n* Pho (noodle soup with vegetables and herbs)\n* Banh mi (a sandwich made with pickled vegetables, herbs, and sometimes tofu or tempeh)\n* Com Tam (broken rice with grilled pork, egg, and various toppings)\n\nAs for laptops, the conversation only mentions laptops and software development. However, since Nam is a vegetarian and you live in Hanoi, I can provide some laptop recommendations that are suitable for vegetarians.\n\nSome popular vegetarian-friendly laptops include:\n\n* Dell XPS 13 (a compact and lightweight laptop with a long battery life)\n* HP Envy x360 (a convertible laptop with a powerful processor and ample storage)\n\nUnfortunately, the memories don't contain any information about you using a specific laptop when eating."
+      }
+    ],
+    "updated_at": "2026-01-22T02:11:31.339344"
+  },
+  "session_99c67f0d": {
+    "session_id": "session_99c67f0d",
+    "user_id": "demo_user_123",
+    "global_summary": "",
+    "recent_messages": [
+      {
+        "role": "user",
+        "content": "Hello do you remember who am i?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memories provided:\n\n- You mentioned \"User lives in Hanoi\" (Created: 2026-01-21T10:09:49.260018)\n- You also mentioned \"You live in Hanoi\" (Created: 2026-01-22T02:07:19.698203)\n\nSince you asked about yourself, I can infer that the speaker who remembers is likely to be the one asking the question. Therefore, I would say:\n\n\"I remember who you are.\""
+      },
+      {
+        "role": "user",
+        "content": "So what's my name ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memory from 2026-01-21T10:54:19.681088 (which states \"User is vegetarian\"), I can infer that your name is Nam.\n\nThis is because this memory was created before the other memories mentioned in the conversation, and it directly answers the question about your name."
+      },
+      {
+        "role": "user",
+        "content": "Where do i live?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the memory:\n\n* You like playing FPS games (Created: 2026-01-22T02:07:10.707146)\n* You live in Hanoi.\n\nThis suggests that you live in Hanoi, as it is mentioned twice with the same timestamp."
+      }
+    ],
+    "updated_at": "2026-01-22T02:22:30.369779"
+  }
+}
