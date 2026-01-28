@@ -1,0 +1,34 @@
+# Core LangGraph and LangChain dependencies
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-ollama>=0.2.0
+
+# Ollama client for embeddings
+ollama>=0.1.0
+
+# Memory and Storage (Mock/File-based for demo)
+numpy>=1.24.0
+scikit-learn>=1.3.0  # For cosine similarity in mock vector store
+
+# Configuration and environment
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Utilities
+# NOTE: `uuid`, `datetime`, `json` are Python stdlib modules -> DO NOT put them in requirements.txt
+typing-extensions>=4.8.0
+
+# For async operations (if needed)
+aiofiles>=23.0.0  # For async file operations
+
+# Testing (optional but recommended)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Note: For production, you would need:
+# - Real vector DB: qdrant-client, pinecone-client, chromadb, etc.
+# - Real database: psycopg2 (PostgreSQL), redis, etc.
+# - Production embeddings: sentence-transformers, etc.

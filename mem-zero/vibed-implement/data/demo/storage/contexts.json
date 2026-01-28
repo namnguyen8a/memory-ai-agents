@@ -1,0 +1,34 @@
+{
+  "session_befbeaee": {
+    "session_id": "session_befbeaee",
+    "user_id": "demo_user_123",
+    "global_summary": "",
+    "recent_messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi"
+      },
+      {
+        "role": "user",
+        "content": "I'm Nam, 24 years old and i am planning to New York can you recommend me some places for vegetarian and i hate green onion also"
+      },
+      {
+        "role": "assistant",
+        "content": "Nam! Welcome!\n\nFor vegetarian options in NYC that don't include green onions, here are a few recommendations:\n\n1. The Butcher's Daughter - A Jewish deli and market with multiple locations in NYC. They offer a variety of veggie burgers and sandwiches.\n2. Cafe Grumpy - A cozy cafe in the West Village serving creative vegetarian dishes like eggplant parmesan and grilled portobello mushroom burgers.\n3. Xi'an Famous Foods - A casual Chinese restaurant chain with several locations in NYC, offering a range of spicy lamb-free options like vegetable dumplings and noodles.\n\nPlease note that menu items may change seasonally or by location, so it's always a good idea to check the current offerings before visiting.\n\nI hope this helps!"
+      },
+      {
+        "role": "user",
+        "content": "i'm not in New York i just planning to go to New York remember it"
+      },
+      {
+        "role": "assistant",
+        "content": "You're planning to visit New York! You mentioned earlier that your name is Nam. I think it's 24 years old now. What kind of food do you usually eat? Do you have a favorite restaurant in the city?"
+      }
+    ],
+    "updated_at": "2026-01-28T06:39:56.334202"
+  }
+}
